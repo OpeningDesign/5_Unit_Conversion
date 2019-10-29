@@ -1,0 +1,21 @@
+
+
+Few questions for Ryan on Progress Permit Set:
+
+1.  RCP plan - GWB or ACT and what heights?
+2.  Finishes on Room Finish Schedule...CPT?  VB?   PTD
+3.  Code Information? Existing/Egress
+	- ADA information (mounting heights of grab bars, blocking, removable sink base detail(s)
+4.  Which windows are new and what sizes?
+5.  Shall I add interior elevations for casework for bath vanity and kitchen cabinets?
+6.  Kitchen sink at 34" aff.
+7.  Floor/ceiling assemblies (L201 and L537) what is the existing make-up of the floor system as it stands now?
+8.  New patios on West and East, are the sizes shown correct?
+9.  What is Zave used for in the revit model?
+10.  I still need to crop exterior images as you requested, no problem
+11.  Are we using "dumb" text for notes or do you typically use keynotes?
+12.  Others I'm missing?
+13.  Site plan and enlarged site plan (indicating path of travel)
+14.  I imagine we need to demo all the existing GWB at underside of floor joists?
+15.  Do we need 1 hour seperation from storage units to this new Unit #5?
+
